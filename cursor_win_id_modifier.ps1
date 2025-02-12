@@ -469,7 +469,7 @@ try {
     }
 
     # 在主要配置修改后添加注册表修改
-    Generate-NewConfig
+    # Generate-NewConfig
     Update-MachineGuid
     Show-FileTree
 

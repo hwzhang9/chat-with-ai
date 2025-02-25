@@ -1,4 +1,4 @@
-# chat-with-ai
+# chat-with-deepseek
 
 ## Introduction
 This project uses the deepseek official API for chat functionality. To use this project, you need to configure your own API key.
